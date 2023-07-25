@@ -14,7 +14,7 @@ DevOps Project using Terraform, Jenkins, SonarQube, Artifactory, Ansible, Docker
 ✔Defining rules and gates within SonarQube for ensuring code quality standards.
 ✔Setting up Sonar callback rules.
 ✔Configuring JFrog Artifactory.
-✔Creating Dockerfile for containerization.
+✔Creating Dockerfile for containerization. 
 ✔Storing Docker images on Artifactory.
 ✔Utilizing Terraform to provision a Kubernetes cluster.
 ✔Creating Kubernetes objects.
